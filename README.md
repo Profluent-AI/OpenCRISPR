@@ -33,7 +33,7 @@ This repository contains releases for OpenCRISPR, a set of free and open gene ed
 
 ## License
 
-OpenCRISPR is free; you don't need a license to use OpenCRISPR in your own research. To ensure the ethical and safe commercial use of OpenCRISPR, we do require users to execute a simple license agreement that includes obligations to use the tool for ethical purposes only, in addition to other terms of use. Please complete the [linked form](https://docs.google.com/forms/d/1h3UbiwBgSUJMgR_6o2WlfEvewfE1Ldmar_FrNyazSv4) to receive a copy of the license agreement.
+OpenCRISPR is free and public for your research and commercial usage. To ensure the ethical and safe commercial use, we have a simple license agreement that includes obligations to use the tool for ethical purposes only, in addition to other terms. Please complete this [form](https://docs.google.com/forms/d/1h3UbiwBgSUJMgR_6o2WlfEvewfE1Ldmar_FrNyazSv4) to gain access to relevant documents and next steps.
 
 ## Citing OpenCRISPR
 
