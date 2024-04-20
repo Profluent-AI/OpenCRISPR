@@ -5,9 +5,8 @@ This repository contains releases for OpenCRISPR, a set of free and open gene ed
 ## Releases
 
 | Release | Date | Description |
-| ------ | ------ | --------- |
-| [OpenCRISPR-1](OpenCRISPR-1) | 2024-04-22 | AI-designed, RNA-programmable gene editor with NGG PAM preference. Described in [Ruffolo et al., 2024](https://profluent.bio/opencrispr-manuscript). |
-
+| :-------------- | :------ | :------- |
+| [OpenCRISPR-1](OpenCRISPR-1) | 2024-04-22 | AI-designed, RNA-programmable gene editor with NGG PAM preference. <br>Described in [Ruffolo et al., 2024](https://profluent.bio/opencrispr-manuscript). |
 
 ## FAQs
 
