@@ -30,7 +30,7 @@ This repository contains releases for OpenCRISPR, a set of free and open gene ed
 
 **Is there a way to share my experience using OpenCRISPR with Profluent?** We expressly welcome any feedback on OpenCRISPR and especially sharing of any observations as you’re using the system. If you find that certain attributes could be changed or improved for your particular needs, please reach out!
 
-**OpenCRISPR is interesting, but I have more needs; what does Profluent offer?** We are open to collaboratively iterate and customize an AI-designed solution that is a perfect match for your specific therapeutic application. This ranges from customized gene editors, antibodies, and broader enzymes. Please email [designated email or general email with subject line].
+**OpenCRISPR is interesting, but I have more needs; what does Profluent offer?** We are open to collaboratively iterate and customize an AI-designed solution that is a perfect match for your specific therapeutic application. This ranges from customized gene editors, antibodies, and broader enzymes. Please email `partnerships@profluent.bio`.
 
 ## License
 
